@@ -25,10 +25,10 @@
 
 <h2 align="center">Tech Skills:</h2>
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: inline-block; background-color: #E34F26; padding: 10px; border-radius: 8px; margin: 5px;">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: inline-block; background-color: #1572B6; padding: 10px; border-radius: 8px; margin: 5px;">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: inline-block; background-color: #F7DF1E; padding: 10px; border-radius: 8px; margin: 5px;">
