@@ -1,5 +1,23 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+20584
+Fork on GitHub
+6326
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Ahmed Abdelfadeel</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medabdelfadil&label=Profile%20views&color=0e75b6&style=flat" alt="a7medabdelfadil" /> </p>
 
 - 🔭 I’m currently working on [Ecommerce App](https://github.com/a7medabdelfadil/e-commerce)
 
@@ -16,6 +34,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmedabdelfadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedabdelfadil" height="30" width="40" /></a>
+<a href="https://fb.com/abufadel29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abufadel29" height="30" width="40" /></a>
+<a href="https://instagram.com/a7med.abdelfadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a7med.abdelfadil" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/abufadell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abufadell" height="30" width="40" /></a>
 </p>
 
@@ -25,3 +45,29 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medabdelfadil&show_icons=true&locale=en&layout=compact" alt="a7medabdelfadil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a7medabdelfadil&show_icons=true&locale=en" alt="a7medabdelfadil" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
+1
