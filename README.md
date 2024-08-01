@@ -3,11 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a7medabdelfadil&label=Profile%20views&color=0e75b6&style=flat" alt="a7medabdelfadil" /> </p>
 
-- 🔭 I’m currently working on [Ecommerce App](https://github.com/a7medabdelfadil/e-commerce)
+- 🔭 I’m currently working on [Podcaster Project](https://github.com/a7medabdelfadil/podcaster)
 
 - 🌱 I’m currently learning **Unit Testing, Node.js, Express.js, MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://abufadel.vercel.app](https://abufadel.vercel.app)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, SASS, TypeScript, Redux, React.js, Next.js, OOP, Responsive Design**
 
