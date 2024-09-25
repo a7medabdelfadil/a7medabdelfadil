@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Three js**
 
-- 💬 Ask me about **React.js, Next.js, HTML (HTML5), CSS (CSS 3), JavaScript, TypeScript, SASS, Redux, OOP, Responsive Design**
+- 🛠️ Skills **React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind, SASS, Redux, Jest, Responsive Design**
 
 - 📫 Contact me **a7med.abdelfadeel@gmail.com | +201102175307**
 
