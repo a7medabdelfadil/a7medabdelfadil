@@ -1,5 +1,5 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=15&duration=3000&pause=100&color=3168F7&center=true&multiline=true&width=435&lines=Hey%2C+I'm+Abufadel;A+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&duration=3000&pause=100&color=3168F7&center=true&multiline=true&width=1000&lines=Hey%2C+I'm+Abufadel;A+frontend+developer)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"></h2>
 
@@ -66,21 +66,5 @@
 [![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)](https://prettier.io/) 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![OOP](https://img.shields.io/badge/OOP-008080?style=for-the-badge&logo=oop&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming) 
-
-<div align="center">
-<picture>
-  <!-- Light mode snake SVG -->
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/a7medabdelfadil/a7medabdelfadil/blob/output/github-contribution-grid-snake.svg">
-  
-  <!-- Dark mode snake SVG -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/a7medabdelfadil/a7medabdelfadil/blob/output/github-contribution-grid-snake-dark.svg">
-
-  <!-- Fallback (default to light mode if no media query match) -->
-  <img alt="GitHub Contribution Snake" src="https://github.com/a7medabdelfadil/a7medabdelfadil/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-[![](https://visitcount.itsvg.in/api?id=a7medabdelfadil&icon=6&color=1)](https://visitcount.itsvg.in)
-</div>
-
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medabdelfadil&show_icons=true&locale=en&layout=compact&theme=dark" alt="a7medabdelfadil" /></p>
