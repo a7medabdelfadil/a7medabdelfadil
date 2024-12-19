@@ -6,10 +6,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a7medabdelfadil&label=Profile%20views&color=0e75b6&style=flat" alt="a7medabdelfadil" /> </p>
 
 - 🔭 I’m currently working on Education Platform (Saas Project)
-
+/*
 - 🌱 I’m currently learning **Three js**
+*/
 
-- 🛠️ Skills **React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind, SASS, Redux, Jest, Responsive Design**
+- 🛠️ Skills **React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind, SASS, Redux, Redux Toolkit Query, Tanstack Query, Jest, Responsive Design**
 
 - 📫 Contact me **a7med.abdelfadeel@gmail.com | +201102175307**
 
