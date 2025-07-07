@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on Education Platform (Saas Project)
 
-- 🌱 I’m currently learning **Three js**
-
 - 🛠️ Skills **React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind, SASS, Redux, Redux Toolkit Query, Tanstack Query, Jest, Responsive Design**
 
 - 📫 Contact me **a7med.abdelfadeel@gmail.com | +201102175307**
