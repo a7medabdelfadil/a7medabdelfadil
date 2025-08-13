@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a7medabdelfadil&label=Profile%20views&color=0e75b6&style=flat" alt="a7medabdelfadil" /> </p>
 
-- 🔭 I’m currently working on Education Platform (Saas Project)
-
 - 🛠️ Skills **React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind, SASS, Redux, Redux Toolkit Query, Tanstack Query, Jest, Responsive Design**
 
 - 📫 Contact me **a7med.abdelfadeel@gmail.com | +201102175307**
@@ -22,7 +20,7 @@
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/abufadel29)
   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ahmed_Abdelfadeel)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a7med.abdelfadil)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prodevers)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@abufadel7)
 </p>
 
 ---
